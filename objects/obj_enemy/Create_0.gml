@@ -1,0 +1,2 @@
+deathCheck = 0;
+
